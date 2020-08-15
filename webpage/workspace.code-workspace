@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "h2-springboot",
+			"path": "../springboot-h2/h2-springboot"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "daily"
+	}
+}
